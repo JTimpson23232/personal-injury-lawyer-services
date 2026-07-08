@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jtimpson23232.github.io/personal-injury-lawyer-services/sitemap.xml
